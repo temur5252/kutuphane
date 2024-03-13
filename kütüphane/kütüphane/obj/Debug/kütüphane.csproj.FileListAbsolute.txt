@@ -1,0 +1,10 @@
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.csprojResolveAssemblyReference.cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.Form1.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.Cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
+C:\Users\Öğrenci\Documents\Visual Studio 2012\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.Form2.resources
