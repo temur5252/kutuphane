@@ -1,0 +1,13 @@
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\bin\Debug\oto_galeri.exe.config
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\bin\Debug\oto_galeri.exe
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\bin\Debug\oto_galeri.pdb
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Form1.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Form2.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Form3.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Form4.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Form5.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.exe
+C:\Users\Öğrenci\Desktop\mustafa proje\oto_galeri\oto_galeri\obj\Debug\oto_galeri.pdb
